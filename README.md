@@ -1,6 +1,6 @@
 # text2log
 
-## Neural Machine Translation (English => Predicate Logic)
+## Neural Machine Translation (seq2seq): English => Predicate Logic
 
 ```
 Input sentence: every cat likes fish
