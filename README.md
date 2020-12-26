@@ -13,3 +13,10 @@ Input sentence: she is willing and able
 Decoded sentence: 'exists x1.(_able(x1) & _willing(x1))'
 ```
 
+### Models
+
+1. Plain LSTM
+2. Plain GRU
+3. Bi-directional GRU + Attention (Bahdanau, 2014)
+4. Bi-directional LSTM + Attention
+
